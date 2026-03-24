@@ -1,7 +1,7 @@
 {
   "app_name": "Creo Purge Utility",
   "min_supported_version": "1.0.0",
-  "latest_version": "1.0.0",
+  "latest_version": "0.9.0",
   "force_update": false,
   "message": "최신 버전을 사용해주세요.",
   "update_url": "https://proe.co.kr/"
